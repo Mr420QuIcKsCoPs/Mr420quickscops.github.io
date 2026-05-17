@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url(eltestbase.png);
+    background: url(Eltestbase.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,7 +7,7 @@
 }
 
 .xbox.white {
-    background: url(eltestbase.png);
+    background: url(Eltestbase.png);
 }
 
 .xbox.disconnected {
